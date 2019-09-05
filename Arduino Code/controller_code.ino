@@ -1,5 +1,5 @@
 #include <LiquidCrystal.h>
-#include <Countimer.h>
+#include "Countimer.h"
 
 LiquidCrystal lcd(9, 8, 7, 6, 5, 4);
 Countimer timer;
